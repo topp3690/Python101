@@ -55,4 +55,16 @@ B3.pack(ipadx=20,ipady=20)
 
 #------------------
 
+#------------------
+#update to test github
+print('Hello Uncle')
+print('Hello Somchai')
+print('Hello Github')
+
+friend = ['Loong', 'Pa Lek', 'Loong Dam']
+
+print(friend[0])
+
+#------------------
+
 GUI.mainloop()
